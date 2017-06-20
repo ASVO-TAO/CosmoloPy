@@ -1,6 +1,7 @@
 *~
 .coverage
 *.pyc
+*.bak
 cosmolopy/EH/*.o
 cosmolopy/EH/*.so
 CosmoloPy.egg-info/
